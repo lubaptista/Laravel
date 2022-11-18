@@ -43,6 +43,12 @@ php artisan key:generate
 ```
 
 
+Realizar as migrations do projeto Laravel
+```sh
+php artisan migrate
+```
+
+
 Instalar pacote Composer do Laravel para login
 ```sh
 composer require laravel/ui
