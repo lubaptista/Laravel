@@ -55,12 +55,6 @@ php artisan serve
 ```
 
 
-Instalar pacote Composer do Laravel para login
-```sh
-composer require laravel/ui
-```
-
-
 
 Acesse o projeto
 [http://localhost:8080](http://localhost:8080)
