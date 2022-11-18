@@ -49,6 +49,12 @@ php artisan migrate
 ```
 
 
+Conectar o projeto Laravel ao servidor php
+```sh
+php artisan serve
+```
+
+
 Instalar pacote Composer do Laravel para login
 ```sh
 composer require laravel/ui
